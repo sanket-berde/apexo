@@ -1,0 +1,1 @@
+export const patientsNamespace = "patients";
